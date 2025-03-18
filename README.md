@@ -1,1 +1,1 @@
-# rpcGame
+# rpsGame
